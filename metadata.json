@@ -1,0 +1,6 @@
+{
+  "name": "Gourmet Haven Restaurant",
+  "description": "Exquisite dining experience at Gourmet Haven. Enjoy our delicious menu, order via WhatsApp, and visit us today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
